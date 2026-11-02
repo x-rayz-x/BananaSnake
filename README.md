@@ -39,7 +39,7 @@ Up / Down / Left / Right
 
 # Future Improvements
 
-Add sound effects and background music.
+Add background music.
 
 Implement a high-score system.
 
