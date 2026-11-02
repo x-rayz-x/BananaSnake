@@ -30,6 +30,12 @@ Arrow Keys
 Up / Down / Left / Right
 
 
+# Some Images
+<img width="805" height="836" alt="image" src="https://github.com/user-attachments/assets/9044262e-d182-454e-b021-8f8056f39625" />
+
+<img width="794" height="831" alt="image" src="https://github.com/user-attachments/assets/1dc79621-8862-425f-a8b4-ada69ee6ad6d" />
+
+
 
 # Future Improvements
 
